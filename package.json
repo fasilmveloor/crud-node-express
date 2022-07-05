@@ -1,0 +1,21 @@
+{
+  "name": "crud-node-express",
+  "version": "1.0.0",
+  "description": "nodejs api system to do CRUD operations, using mongodb as database",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "nodejs",
+    "mongodb",
+    "express"
+  ],
+  "author": "fasilmveloor",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.20.0",
+    "express": "^4.18.1",
+    "mongoose": "^6.4.2"
+  }
+}
